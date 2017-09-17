@@ -26,7 +26,7 @@ Vue.component('avatar-component', {
 })
 
 ```html
-<avatar-component v-on:viewport="onViewportEnter"></avatar-component>
+<avatar-component v-on:viewport-enter="onViewportEnter"></avatar-component>
 ```
 
 ## Props
@@ -48,9 +48,9 @@ Vue.component('avatar-component', {
 
 | Name | Description |
 | :------------- | :------------- |
-| viewport-enter | Fire when target enters the viewport/root element. |
-| viewport-change | Fire when target enters or leaves the viewport/root element. |
-| viewport-leave | Fire when target leavs the viewport/root element. |
+| viewport-enter | Fires when target enters the viewport/root element. |
+| viewport-change | Fires when target enters or leaves the viewport/root element. |
+| viewport-leave | Fires when target leavs the viewport/root element. |
 
 ## License
 
