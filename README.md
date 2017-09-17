@@ -24,6 +24,7 @@ Vue.component('avatar-component', {
   template: '#avatar-component',
   mixins: [inViewportMixin]
 })
+```
 
 ```html
 <avatar-component v-on:viewport-enter="onViewportEnter"></avatar-component>
