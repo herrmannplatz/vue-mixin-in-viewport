@@ -13,6 +13,8 @@
   "files": [
     "dist/vue-mixin-in-viewport.js",
     "dist/vue-mixin-in-viewport.min.js",
+    "dist/vue-mixin-in-viewport.polyfill.js",
+    "dist/vue-mixin-in-viewport.polyfill.min.js",
     "src",
     "LICENSE",
     "README.md"
