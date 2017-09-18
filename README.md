@@ -1,5 +1,5 @@
 # vue-mixin-in-viewport
-Vue 2.0 mixin to observe intersection using the [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+Vue 2.0 mixin to observe a components visibilty using the [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 
 ## Note
 
